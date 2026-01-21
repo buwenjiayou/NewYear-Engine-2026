@@ -19,7 +19,6 @@
 
 - Live Demo: https://chronogallop-2026.netlify.app/
 
-> 部署完成后，把上面的链接替换为你的 Netlify/Vercel/GitHub Pages 地址即可。
 
 ---
 
