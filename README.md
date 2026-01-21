@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎆 NewYear Engine 2026
 
-# Run and deploy your AI Studio app
+一个面向 **新年祝福 / 节日互动 / 网页烟花展示** 场景的前端可视化项目，支持快速部署到 **Netlify / Vercel / GitHub Pages**，适合作为个人作品集展示、跨年活动页面、惊喜彩蛋页面等。
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/15Ht-N3ADefFBPXlKfevhZjbuhdsRRFB3
+## ✨ Features
 
-## Run Locally
+- 🎇 新年主题视觉效果（跨年氛围感拉满）
+- 🧨 烟花 / 动画渲染（适配移动端 & PC）
+- 🎁 适合用于「祝福页面」「朋友圈分享」「恋爱惊喜页面」「活动宣传页」
+- ⚡ 零后端依赖，直接静态部署即可访问
+- 📱 响应式支持（手机浏览也舒适）
+- 🧩 可二次开发：祝福语、背景、动画参数都可自定义
 
-**Prerequisites:**  Node.js
+---
 
+## 🖥️ Preview
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Live Demo: `https://your-demo-link.com`
+
+> 部署完成后，把上面的链接替换为你的 Netlify/Vercel/GitHub Pages 地址即可。
+
+---
+
+## 📂 Project Structure
+
+```bash
+NewYear-Engine-2026/
+├─ index.html          # 主页面入口
+├─ assets/             # 图片/音效/字体等资源
+├─ css/                # 样式文件
+├─ js/                 # 动画逻辑/渲染逻辑
+└─ README.md
